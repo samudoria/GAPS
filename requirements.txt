@@ -1,0 +1,4 @@
+androguard==3.4.0a1
+androidviewclient
+frida-tools
+networkx
